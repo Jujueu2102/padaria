@@ -1,0 +1,26 @@
+.laranja{
+    background-color: orangered;
+    color: aliceblue;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+h2{
+    color: orangered;
+}
+body{
+    padding-left: 300px;
+    padding-right: 300px;
+    text-align: center;
+}
+img{
+    width: 600px;
+}
+.produtos{
+    width: 950px;
+}
+.pães{
+    border-top: 2px solid orangered;
+}
+.logo{
+    padding-bottom: 35px;
+}
